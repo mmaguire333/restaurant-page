@@ -2,7 +2,7 @@ function loadHomePage() {
     let content = document.getElementById('content');
 
     let headerImg = document.createElement('img');
-    headerImg.src = './PrancingPony.jpg';
+    headerImg.src = './images/PrancingPony.jpg';
     headerImg.alt = 'The Prancing Pony';
     headerImg.id = 'prancing-pony-img';
     

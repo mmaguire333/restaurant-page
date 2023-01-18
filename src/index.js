@@ -1,2 +1,4 @@
 import loadHomePage from './loadHomePage';
-loadHomePage();
+import loadMenu from './loadMenu';
+import loadStaffPage from './loadStaffPage';
+loadMenu();
