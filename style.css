@@ -1,5 +1,5 @@
 body {
-    background-image: url('../dist/images/PrancingPonyBackground.jpg');
+    background-image: url('./images/PrancingPonyBackground.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
