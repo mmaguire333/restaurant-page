@@ -1,0 +1,35 @@
+body {
+    background-image: url('../dist/PrancingPonyBackground.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#content {
+    background-color: rgb(47,113,51);
+    width: 60vw;
+    height: auto;
+    margin: auto;
+    margin-top: 100px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+}
+
+#prancing-pony-img {
+    width: 40%;
+    border-radius: 10px;
+}
+
+#quote, #historical-guests {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(225,198,75);
+}
+
+#historical-guests > ul {
+    list-style-type: none;
+    font-size: 20px;
+}

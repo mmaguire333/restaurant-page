@@ -1,1 +1,2 @@
-console.log();
+import loadHomePage from './loadHomePage';
+loadHomePage();
